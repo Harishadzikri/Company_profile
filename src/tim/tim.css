@@ -1,0 +1,34 @@
+.tim-container{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    flex-wrap: wrap;
+    margin-bottom: 80px;
+}
+.tim-container h1{
+    margin:  30px;
+}
+
+.boleh{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gakmau{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0;
+}
+
+.gakmau img{
+    width: 200px;
+}
+
+
+.texting{
+    margin: 0 10px;
+}

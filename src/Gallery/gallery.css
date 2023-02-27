@@ -1,0 +1,29 @@
+.gallery-container {
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    gap: 50px;
+    background-color: rgb(0, 0, 0);
+}
+.gallery-container h1{
+    color: white;
+    text-align: center;
+    margin: 50px 0px 0px 0px;
+}
+
+.gallery-row {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card1{
+    width: 400px; 
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.card1 img{
+    width: 1500px;
+}
